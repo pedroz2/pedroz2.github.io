@@ -1,0 +1,32 @@
+{
+  "short_name": "Pedro Zamora II",
+  "name": "Pedro Zamora II",
+  "icons": [
+    {
+      "src": "pz.svg",
+      "type": "image/x-icon",
+      "sizes": "64x64 32x32 24x24 16x16"
+    },
+    {
+      "src": "pz.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pz.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#282c34",
+  "background_color": "#282c34",
+  "shortcuts": [
+    {
+      "name": "Open Resume",
+      "description": "Open Pedro Zamora's Resume",
+      "url": "/pedroz_resume.pdf"
+    }
+  ]
+}
