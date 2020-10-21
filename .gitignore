@@ -4,3 +4,5 @@ projects/.jekyll-cache
 projects/.jekyll-metadata
 projects/vendor
 .vs
+build/
+node_modules/
